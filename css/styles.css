@@ -78,5 +78,14 @@ body {
 .window.open{
     display: block;
 }
+/*boton para abrir ventana emergente*/
 
-
+.open-window{
+    padding: 10px 20px;
+    background-color: #ff5f56;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 20px;
+    border: 1px solid #000000;
+}
